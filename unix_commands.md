@@ -4,6 +4,7 @@ Comandos esenciales para navegar, gestionar archivos y procesos en sistemas tipo
 
 | Comando | Descripción | Ejemplo |
 |---------|-------------|---------|
+| **`clear`** | para limpiar la pantalla en la terminal| `clear` |
 | **`pwd`** | Muestra la ruta absoluta del directorio actual. | `pwd` → `/home/usuario/proyectos` |
 | **`ls`** | Lista archivos y directorios. | `ls -l` (lista detallada) |
 | **`cd`** | Cambia de directorio. | `cd /ruta` o `cd ..` (subir un nivel) |
