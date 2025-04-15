@@ -1,6 +1,25 @@
-## Curso APIs REST con GoLang Github (UNSL)
 
+## Curso APIs REST con GoLang Github (UNSL)
+```sh
 Ing. Ayrton Marini - Ing. Marcos Postemsky
+```
+## Developer
+```sh
+Alfredo D. Galván
+```
+> Nota:
+> Estudiante de la Tecnicatura Universitaria en Web.
+> Facultad de Ciencias Físico Matemáticas y Naturales
+> Universidad Nacional de San Luis (UNSL)
+
+### Codigo
+```GoLang
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hola, 世界")
+}
+```
 
 | Comando Git | Descripción |
 | ------ | ------ |
@@ -20,8 +39,4 @@ Ing. Ayrton Marini - Ing. Marcos Postemsky
 |	git push	|	Sube nuestros commits al repositorio remoto	|
 |	git pull	|	Trae los últimos cambios de un repositorio remoto	|
 
-## Developer
-```sh
-Alfredo Galván
-```
-> Note: Estudiante de la Tecnicatura Univercitaria en Web (UNSL)
+formato Markdown: https://dillinger.io/ 
